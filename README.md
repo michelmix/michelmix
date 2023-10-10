@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem vindo ao meu github! 👨🏽‍💻
 
 <p align="justify">Opa, meu nome é Michel e sou Desenvolvedor Web Full Stack.
-Sou formado em Engenharia Ambiental e migrei para a área de Tecnologia da Informação, formado em Desenvolvimento Web Full Stack pela Trybe. Valorizo o trabalho em equipe e acredito que a comunicação e colaboração são umas das principais ferramentas para o crescimento pessoal e profissional. </p>
+Sou formado em Engenharia Ambiental e migrei para a área de Tecnologia da Informação, formado-me em Desenvolvimento Web Full Stack pela Trybe. Valorizo o trabalho em equipe e acredito que a comunicação e colaboração são umas das principais ferramentas para o crescimento pessoal e profissional. </p>
 <p>Meus hobbies são: ler, musculação, sair com amigos e futebol.</p>
 
 ## Tecnologias
@@ -10,7 +10,6 @@ Sou formado em Engenharia Ambiental e migrei para a área de Tecnologia da Infor
   
   <img src="https://img.shields.io/badge/CSS3-0b6b81?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0b6b81?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-0b6b81?style=for-the-badge&logo=styled-components&logoColor=white" />
   
   <img src="https://img.shields.io/badge/JavaScript-0b6b81?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-0b6b81?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -20,7 +19,8 @@ Sou formado em Engenharia Ambiental e migrei para a área de Tecnologia da Infor
   <img src="https://img.shields.io/badge/React-0b6b81?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-0b6b81?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-0b6b81?style=for-the-badge&logo=react-router&logoColor=white" />
-  
+
+  <img src="https://img.shields.io/badge/Spring-0b6b81?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-0b6b81?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-0b6b81?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/MySQL-0b6b81?style=for-the-badge&logo=mysql&logoColor=white" />
