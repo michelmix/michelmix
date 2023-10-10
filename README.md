@@ -6,8 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Arantes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div align="center"><a= href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Michel-Arantes&theme=nord" alt="Michel-Trophy" /></a></div> 
- ## 
 <div style="display: inline_block" align="center"><br>
   <p align="center"><strong>Linguagens e Ferramentas:</strong></p>  
   <img align="center" alt="Michel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
