@@ -1,4 +1,4 @@
- Olá, sou o Michel Barbosa! Full Stack Developer Student na Trybe 👨🏽‍💻
+## Olá, meu nome é Michel e sou Desenvolvedor Web Full Stack 👨🏽‍💻
 <div align="center">
   <p align="center"><strong>Estatísticas:</strong></p>
   <a href="https://github.com/Michel-Arantes">
