@@ -14,8 +14,8 @@ Olá, meu nome é Michel e sou Desenvolvedor Web Full Stack 👨🏽‍💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Arantes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block" align="center"><br>
-  <p align="center"><strong>Linguagens e Ferramentas:</strong></p> 
+# Linguagens e ferramentas
+<div style="display: flex;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,7 +33,6 @@ Olá, meu nome é Michel e sou Desenvolvedor Web Full Stack 👨🏽‍💻
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
   
- ## 
 <p align="center"><strong>Meus Contatos:</strong></p>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/michel-barbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
