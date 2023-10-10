@@ -32,9 +32,9 @@ Sou formado em Engenharia Ambiental e migrei para a área de Tecnologia da Infor
 </p>
 
 <div align="center">
-  <a href="https://github.com/Michel-Arantes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michel-Arantes&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Arantes&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
+  <a href="https://github.com/michelmix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelmix&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelmix&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
 </div>
 
 ## Idiomas
