@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem vindo ao meu github! 👨🏽‍💻
+# 👋 Olá! Seja bem-vindo ao meu github! 👨🏽‍💻
 
 <p align="justify">Opa, meu nome é Michel e sou Desenvolvedor Web Full Stack.
 Sou formado em Engenharia Ambiental e migrei para a área de Tecnologia da Informação, formado-me em Desenvolvimento Web Full Stack pela Trybe. Valorizo o trabalho em equipe e acredito que a comunicação e colaboração são umas das principais ferramentas para o crescimento pessoal e profissional. </p>
